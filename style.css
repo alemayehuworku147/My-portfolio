@@ -379,17 +379,14 @@ button {
     margin: 20px auto;
     border-radius: 15px;
 }
-
-/* Suuraa koo - xiqqaa fi geengoo */
-img.about-photo {
-    width: 40px !important;
-    height: 30px !important;
-    max-width: 50px !important;
-    border-radius: 30% !important;
-    object-fit: circle !important;
-    display: block;
-    margin: 10px auto;
+.profile img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 3px solid #1877f2;
 }
+
 .skills-image {
     display: block;
     width: 220px;
