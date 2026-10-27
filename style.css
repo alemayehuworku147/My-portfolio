@@ -2,7 +2,7 @@ body {
     background-color:white;
   font-family: Arial, sans- serif;
   margin;0;
-  padding:15px;
+  padding:30px;
 }
 
 h1 {
@@ -15,7 +15,7 @@ h2 {
 
 p {
     color: black;
-    font-size: 30px;
+    font-size: 50px;
 }
 /*navigation */
 
@@ -31,7 +31,7 @@ p {
 nav a {
     color: white;
     text-decoration: none;
-    font-size: 16px;
+    font-size: 30px;
     margin: 5px 8px;
     padding: 5px;
 }
@@ -44,7 +44,7 @@ label {
     display: block;
     margin-top: 15px;
     color: black;
-    font-size: 18px;
+    font-size: 30px;
 }
 
 input,
@@ -52,7 +52,7 @@ textarea {
     width: 100%;
     padding: 10px;
     margin-top: 5px;
-    font-size: 16px;
+    font-size: 30px;
     box-sizing: border-box;
 }
 
@@ -63,7 +63,7 @@ textarea {
 button {
     margin-top: 15px;
     padding: 12px 20px;
-    font-size: 16px;
+    font-size: 30px;
     cursor: pointer;
 }
 .hero {
@@ -79,7 +79,7 @@ button {
 }
 
 .intro {
-    font-size: 20px;
+    font-size: 30px;
     margin-bottom: 5px;
 }
 
@@ -89,12 +89,12 @@ button {
 }
 
 .hero h2 {
-    font-size: 28px;
+    font-size: 40px;
     margin: 10px 0;
 }
 
 .hero p {
-    font-size: 18px;
+    font-size: 30px;
     line-height: 1.6;
 }
 
@@ -122,12 +122,12 @@ button {
 }
 
 .section-title {
-    font-size: 18px;
+    font-size: 30px;
     margin-bottom: 5px;
 }
 
 .about h2 {
-    font-size: 35px;
+    font-size: 45px;
     margin: 10px 0 20px;
 }
 
@@ -162,7 +162,7 @@ button {
     color: black;
     padding: 12px 20px;
     border-radius: 6px;
-    font-size: 18px;
+    font-size: 30px;
 }
 .projects {
     padding: 60px 20px;
