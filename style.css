@@ -391,12 +391,12 @@ img.about-photo {
     margin: 10px auto;
 }
 
-/* Suuraa computer - xiqqaa */
-img.skills-image {
-    width: 180px !important;
-    max-width: 60% !important;
-    height: auto !important;
+
+.skills-image {
     display: block;
+    width: 140px !important;
+    height: 100px !important;
+    object-fit: contain;
     margin: 10px auto;
     border-radius: 10px;
 }
