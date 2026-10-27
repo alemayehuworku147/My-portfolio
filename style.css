@@ -392,10 +392,10 @@ img.about-photo {
 }
 .skills-image {
     display: block;
-    width: 320px;
-    max-width: 90%;
+    width: 420px;
+    max-width: 100%;
     height: auto;
     object-fit: contain;
     margin: 15px auto;
-    border-radius: 10px;
+    border-radius: 20px;
 }
