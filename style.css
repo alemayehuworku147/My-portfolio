@@ -393,9 +393,13 @@ img.about-photo {
 .skills-image {
     display: block;
     width: 180px;
-    height: 100px;
-    object-fit: fill;
+    height: auto;
+    object-fit: contain;
+    background: transparent;
+    opacity: 1;
+    visibility: visible;
+    position: relative;
+    z-index: 10;
     margin: 15px auto;
-    border-radius: 10px;
 }
 
