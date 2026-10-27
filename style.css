@@ -371,4 +371,12 @@ button {
     margin: 15px auto;
     line-height: 1.8;
 }
+.skills-image {
+    display: block;
+    width: 100%;
+    max-width: 650px;
+    height: auto;
+    margin: 20px auto;
+    border-radius: 15px;
+}
 
