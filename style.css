@@ -390,15 +390,12 @@ img.about-photo {
     display: block;
     margin: 10px auto;
 }
-
 .skills-image {
     display: block;
-    width: 180px !important;
-    height: auto !important;
-    max-width: 100%;
-    object-fit: contain;
+    width: 180px;
+    height: 100px;
+    object-fit: fill;
     margin: 15px auto;
-    border: none;
-    background: transparent;
+    border-radius: 10px;
 }
 
