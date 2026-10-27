@@ -380,25 +380,24 @@ button {
     border-radius: 15px;
 }
 
-/* My profile photo */
-.about-photo {
-    width: 50px;
-    height: 110px;
-    object-fit: cover;
-    border-radius: 50%;
-    border: 3px solid #2563eb;
+/* Suuraa koo - xiqqaa fi geengoo */
+img.about-photo {
+    width: 80px !important;
+    height: 80px !important;
+    max-width: 80px !important;
+    border-radius: 50% !important;
+    object-fit: cover !important;
     display: block;
-    margin: 15px auto;
+    margin: 10px auto;
 }
 
-/* Computer image under My Skills */
-.skills-image {
+/* Suuraa computer - xiqqaa */
+img.skills-image {
+    width: 180px !important;
+    max-width: 60% !important;
+    height: auto !important;
     display: block;
-    width: 50%;
-    max-width: 320px;
-    height: auto;
-    object-fit: contain;
-    border-radius: 12px;
-    margin: 15px auto;
+    margin: 10px auto;
+    border-radius: 10px;
 }
 
