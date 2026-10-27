@@ -367,14 +367,14 @@ button {
 }
 
 .about-section p {
-    max-width: 100px;
+    max-width: 80px;
     margin: 15px auto;
     line-height: 1.8;
 }
 .skills-image {
     display: block;
-    width: 90%;
-    max-width: 350px;
+    width: 100%;
+    max-width: 650px;
     height: auto;
     margin: 20px auto;
     border-radius: 15px;
