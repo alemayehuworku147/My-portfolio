@@ -382,7 +382,7 @@ button {
 
 /* My profile photo */
 .about-photo {
-    width: 110px;
+    width: 50px;
     height: 110px;
     object-fit: cover;
     border-radius: 50%;
@@ -394,7 +394,7 @@ button {
 /* Computer image under My Skills */
 .skills-image {
     display: block;
-    width: 90%;
+    width: 50%;
     max-width: 320px;
     height: auto;
     object-fit: contain;
