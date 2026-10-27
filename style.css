@@ -349,3 +349,26 @@ button {
 .social-links a:hover {
     opacity: 0.8;
 }
+
+.about-section {
+    text-align: center;
+    padding: 40px 20px;
+}
+
+.about-photo {
+    width: 180px;
+    height: 180px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 4px solid #2563eb;
+    margin: 20px auto;
+    display: block;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
+
+.about-section p {
+    max-width: 600px;
+    margin: 15px auto;
+    line-height: 1.8;
+}
+
