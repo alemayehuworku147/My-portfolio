@@ -389,8 +389,8 @@ button {
 }
 
 .profile img {
-    width: 150%;
-    height: 100%;
+    width: 250%;
+    height: 50%;
     object-fit: cover;
     display: block;
 }
